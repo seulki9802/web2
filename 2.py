@@ -1,4 +1,4 @@
-#!C:\Users\chosun\AppData\Local\Programs\Python\Python37-32\python.exe
+#!python
 print("content-type: text/html; charset=utf-8\n")
 
 a = 3+4+5
